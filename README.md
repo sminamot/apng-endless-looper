@@ -1,4 +1,11 @@
 APNGファイルのループ回数を無限にするつーる
+
+![](https://user-images.githubusercontent.com/26164869/79687345-9f1b9b00-8281-11ea-88ba-b9aa9a44b1aa.png)
+
+↓
+
+![](https://user-images.githubusercontent.com/26164869/79687347-a2168b80-8281-11ea-8ce9-005a388b6155.png)
+
 ## Usage
 ```
 $ apng-endless-looper mypng.png
